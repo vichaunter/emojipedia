@@ -3351,7 +3351,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👋",
     number: 147,
     name: "waving hand",
-    category: "People & Body",
+    category: "Body",
     subCategory: "hand-fingers-open",
     tags: [
       "hello",
@@ -3382,7 +3382,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🤚",
     number: 148,
     name: "raised back of hand",
-    category: "People & Body",
+    category: "Body",
     subCategory: "hand-fingers-open",
     tags: [
       "stop",
@@ -3410,7 +3410,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🖐",
     number: 149,
     name: "hand with fingers splayed",
-    category: "People & Body",
+    category: "Body",
     subCategory: "hand-fingers-open",
     tags: [
       "stop",
@@ -3438,7 +3438,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "✋",
     number: 150,
     name: "raised hand",
-    category: "People & Body",
+    category: "Body",
     subCategory: "hand-fingers-open",
     tags: [
       "volunteer",
@@ -3466,7 +3466,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🖖",
     number: 151,
     name: "vulcan salute",
-    category: "People & Body",
+    category: "Body",
     subCategory: "hand-fingers-open",
     tags: [
       "star trek",
@@ -3493,7 +3493,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👌",
     number: 152,
     name: "OK hand",
-    category: "People & Body",
+    category: "Body",
     subCategory: "hand-fingers-partial",
     tags: [
       "okay",
@@ -3521,7 +3521,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "✌",
     number: 153,
     name: "victory hand",
-    category: "People & Body",
+    category: "Body",
     subCategory: "hand-fingers-partial",
     tags: [
       "peace",
@@ -3547,7 +3547,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🤞",
     number: 154,
     name: "crossed fingers",
-    category: "People & Body",
+    category: "Body",
     subCategory: "hand-fingers-partial",
     tags: [
       "luck",
@@ -3573,7 +3573,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🤟",
     number: 155,
     name: "love-you gesture",
-    category: "People & Body",
+    category: "Body",
     subCategory: "hand-fingers-partial",
     tags: [
       "I love you",
@@ -3599,7 +3599,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🤘",
     number: 156,
     name: "sign of the horns",
-    category: "People & Body",
+    category: "Body",
     subCategory: "hand-fingers-partial",
     tags: [
       "rock",
@@ -3624,7 +3624,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🤙",
     number: 157,
     name: "call me hand",
-    category: "People & Body",
+    category: "Body",
     subCategory: "hand-fingers-partial",
     tags: [
       "hang loose",
@@ -3649,7 +3649,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👈",
     number: 158,
     name: "backhand index pointing left",
-    category: "People & Body",
+    category: "Body",
     subCategory: "hand-single-finger",
     tags: [
       "direction",
@@ -3674,7 +3674,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👉",
     number: 159,
     name: "backhand index pointing right",
-    category: "People & Body",
+    category: "Body",
     subCategory: "hand-single-finger",
     tags: [
       "direction",
@@ -3699,7 +3699,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👆",
     number: 160,
     name: "backhand index pointing up",
-    category: "People & Body",
+    category: "Body",
     subCategory: "hand-single-finger",
     tags: [
       "direction",
@@ -3724,7 +3724,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🖕",
     number: 161,
     name: "middle finger",
-    category: "People & Body",
+    category: "Body",
     subCategory: "hand-single-finger",
     tags: [
       "rude",
@@ -3748,7 +3748,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👇",
     number: 162,
     name: "backhand index pointing down",
-    category: "People & Body",
+    category: "Body",
     subCategory: "hand-single-finger",
     tags: [
       "direction",
@@ -3773,7 +3773,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "☝",
     number: 163,
     name: "index pointing up",
-    category: "People & Body",
+    category: "Body",
     subCategory: "hand-single-finger",
     tags: [
       "direction",
@@ -3797,7 +3797,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👍",
     number: 164,
     name: "thumbs up",
-    category: "People & Body",
+    category: "Body",
     subCategory: "hand-fingers-closed",
     tags: [
       "approval",
@@ -3829,7 +3829,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👎",
     number: 165,
     name: "thumbs down",
-    category: "People & Body",
+    category: "Body",
     subCategory: "hand-fingers-closed",
     tags: [
       "disapproval",
@@ -3860,7 +3860,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "✊",
     number: 166,
     name: "raised fist",
-    category: "People & Body",
+    category: "Body",
     subCategory: "hand-fingers-closed",
     tags: [
       "power",
@@ -3891,7 +3891,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👊",
     number: 167,
     name: "oncoming fist",
-    category: "People & Body",
+    category: "Body",
     subCategory: "hand-fingers-closed",
     tags: [
       "punch",
@@ -3922,7 +3922,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🤛",
     number: 168,
     name: "left-facing fist",
-    category: "People & Body",
+    category: "Body",
     subCategory: "hand-fingers-closed",
     tags: [
       "direction",
@@ -3951,7 +3951,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🤜",
     number: 169,
     name: "right-facing fist",
-    category: "People & Body",
+    category: "Body",
     subCategory: "hand-fingers-closed",
     tags: [
       "direction",
@@ -3980,7 +3980,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👏",
     number: 170,
     name: "clapping hands",
-    category: "People & Body",
+    category: "Body",
     subCategory: "hands",
     tags: [
       "applause",
@@ -4011,7 +4011,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🙌",
     number: 171,
     name: "raising hands",
-    category: "People & Body",
+    category: "Body",
     subCategory: "hands",
     tags: [
       "celebration",
@@ -4041,7 +4041,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👐",
     number: 172,
     name: "open hands",
-    category: "People & Body",
+    category: "Body",
     subCategory: "hands",
     tags: [
       "openness",
@@ -4070,7 +4070,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🤲",
     number: 173,
     name: "palms up together",
-    category: "People & Body",
+    category: "Body",
     subCategory: "hands",
     tags: [
       "prayer",
@@ -4099,7 +4099,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🤝",
     number: 174,
     name: "handshake",
-    category: "People & Body",
+    category: "Body",
     subCategory: "hands",
     tags: [
       "agreement",
@@ -4128,7 +4128,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🙏",
     number: 175,
     name: "folded hands",
-    category: "People & Body",
+    category: "Body",
     subCategory: "hands",
     tags: [
       "prayer",
@@ -4156,7 +4156,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "✍",
     number: 176,
     name: "writing hand",
-    category: "People & Body",
+    category: "Body",
     subCategory: "hand-prop",
     tags: [
       "write",
@@ -4185,7 +4185,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "💅",
     number: 177,
     name: "nail polish",
-    category: "People & Body",
+    category: "Body",
     subCategory: "hand-prop",
     tags: [
       "manicure",
@@ -4213,7 +4213,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🤳",
     number: 178,
     name: "selfie",
-    category: "People & Body",
+    category: "Body",
     subCategory: "hand-prop",
     tags: [
       "photo",
@@ -4241,7 +4241,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "💪",
     number: 179,
     name: "flexed biceps",
-    category: "People & Body",
+    category: "Body",
     subCategory: "body-parts",
     tags: [
       "strength",
@@ -4275,7 +4275,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🦵",
     number: 180,
     name: "⊛ leg",
-    category: "People & Body",
+    category: "Body",
     subCategory: "body-parts",
     tags: [
       "limb",
@@ -4308,7 +4308,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🦶",
     number: 181,
     name: "⊛ foot",
-    category: "People & Body",
+    category: "Body",
     subCategory: "body-parts",
     tags: [
       "toes",
@@ -4340,7 +4340,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👂",
     number: 182,
     name: "ear",
-    category: "People & Body",
+    category: "Body",
     subCategory: "body-parts",
     tags: [
       "hearing",
@@ -4372,7 +4372,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👃",
     number: 183,
     name: "nose",
-    category: "People & Body",
+    category: "Body",
     subCategory: "body-parts",
     tags: [
       "smell",
@@ -4403,7 +4403,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🧠",
     number: 184,
     name: "brain",
-    category: "People & Body",
+    category: "Body",
     subCategory: "body-parts",
     tags: [
       "intelligence",
@@ -4435,7 +4435,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🦷",
     number: 185,
     name: "⊛ tooth",
-    category: "People & Body",
+    category: "Body",
     subCategory: "body-parts",
     tags: [
       "dental",
@@ -4467,7 +4467,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🦴",
     number: 186,
     name: "⊛ bone",
-    category: "People & Body",
+    category: "Body",
     subCategory: "body-parts",
     tags: [
       "skeleton",
@@ -4498,7 +4498,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👀",
     number: 187,
     name: "eyes",
-    category: "People & Body",
+    category: "Body",
     subCategory: "body-parts",
     tags: [
       "vision",
@@ -4530,7 +4530,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👁",
     number: 188,
     name: "eye",
-    category: "People & Body",
+    category: "Body",
     subCategory: "body-parts",
     tags: [
       "vision",
@@ -4560,7 +4560,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👅",
     number: 189,
     name: "tongue",
-    category: "People & Body",
+    category: "Body",
     subCategory: "body-parts",
     tags: [
       "taste",
@@ -4592,7 +4592,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👄",
     number: 190,
     name: "mouth",
-    category: "People & Body",
+    category: "Body",
     subCategory: "body-parts",
     tags: [
       "lips",
@@ -4624,7 +4624,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👶",
     number: 191,
     name: "baby",
-    category: "people",
+    category: "People",
     subCategory: "person",
     tags: [
       "baby",
@@ -4656,7 +4656,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🧒",
     number: 192,
     name: "child",
-    category: "people",
+    category: "People",
     subCategory: "person",
     tags: [
       "child",
@@ -4687,7 +4687,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👦",
     number: 193,
     name: "boy",
-    category: "people",
+    category: "People",
     subCategory: "person",
     tags: [
       "boy",
@@ -4718,7 +4718,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👧",
     number: 194,
     name: "girl",
-    category: "people",
+    category: "People",
     subCategory: "person",
     tags: [
       "girl",
@@ -4747,7 +4747,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🧑",
     number: 195,
     name: "person",
-    category: "people",
+    category: "People",
     subCategory: "person",
     tags: [
       "person",
@@ -4777,7 +4777,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👱",
     number: 196,
     name: "person: blond hair",
-    category: "people",
+    category: "People",
     subCategory: "person",
     tags: [
       "person",
@@ -4807,7 +4807,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👨",
     number: 197,
     name: "man",
-    category: "people",
+    category: "People",
     subCategory: "person",
     tags: [
       "man",
@@ -4838,7 +4838,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🧔",
     number: 198,
     name: "man: beard",
-    category: "people",
+    category: "People",
     subCategory: "person",
     tags: [
       "man",
@@ -4869,7 +4869,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👱‍♂️",
     number: 199,
     name: "man: blond hair",
-    category: "people",
+    category: "People",
     subCategory: "person",
     tags: [
       "man",
@@ -4898,7 +4898,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👨‍🦰",
     number: 200,
     name: "man: red hair",
-    category: "people",
+    category: "People",
     subCategory: "person",
     tags: [
       "man",
@@ -4926,7 +4926,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👨‍🦱",
     number: 201,
     name: "man: curly hair",
-    category: "people",
+    category: "People",
     subCategory: "person",
     tags: [
       "man",
@@ -4954,7 +4954,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👨‍🦳",
     number: 202,
     name: "man: white hair",
-    category: "people",
+    category: "People",
     subCategory: "person",
     tags: [
       "man",
@@ -4985,7 +4985,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👨‍🦲",
     number: 203,
     name: "man: bald",
-    category: "people",
+    category: "People",
     subCategory: "person",
     tags: [
       "man",
@@ -5013,7 +5013,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👩",
     number: 204,
     name: "woman",
-    category: "people",
+    category: "People",
     subCategory: "person",
     tags: [
       "woman",
@@ -5043,7 +5043,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👱‍♀️",
     number: 205,
     name: "woman: blond hair",
-    category: "people",
+    category: "People",
     subCategory: "person",
     tags: [
       "woman",
@@ -5072,7 +5072,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👩‍🦰",
     number: 206,
     name: "woman: red hair",
-    category: "people",
+    category: "People",
     subCategory: "person",
     tags: [
       "woman",
@@ -5101,7 +5101,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👩‍🦱",
     number: 207,
     name: "woman: curly hair",
-    category: "people",
+    category: "People",
     subCategory: "person",
     tags: [
       "woman",
@@ -5129,7 +5129,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👩‍🦳",
     number: 208,
     name: "woman: white hair",
-    category: "people",
+    category: "People",
     subCategory: "person",
     tags: [
       "woman",
@@ -5160,7 +5160,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👩‍🦲",
     number: 209,
     name: "woman: bald",
-    category: "people",
+    category: "People",
     subCategory: "person",
     tags: [
       "woman",
@@ -5188,7 +5188,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🧓",
     number: 210,
     name: "older person",
-    category: "people",
+    category: "People",
     subCategory: "person",
     tags: [
       "older",
@@ -5217,7 +5217,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👴",
     number: 211,
     name: "old man",
-    category: "people",
+    category: "People",
     subCategory: "person",
     tags: [
       "old",
@@ -5246,7 +5246,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👵",
     number: 212,
     name: "old woman",
-    category: "people",
+    category: "People",
     subCategory: "person",
     tags: [
       "old",
@@ -5275,7 +5275,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🙍",
     number: 213,
     name: "person frowning",
-    category: "people",
+    category: "People",
     subCategory: "person-gesture",
     tags: [
       "person",
@@ -5304,7 +5304,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🙍‍♂️",
     number: 214,
     name: "man frowning",
-    category: "people",
+    category: "People",
     subCategory: "person-gesture",
     tags: [
       "man",
@@ -5334,7 +5334,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🙍‍♀️",
     number: 215,
     name: "woman frowning",
-    category: "people",
+    category: "People",
     subCategory: "person-gesture",
     tags: [
       "woman",
@@ -5364,7 +5364,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🙎",
     number: 216,
     name: "person pouting",
-    category: "people",
+    category: "People",
     subCategory: "person-gesture",
     tags: [
       "person",
@@ -5394,7 +5394,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🙎‍♂️",
     number: 217,
     name: "man pouting",
-    category: "people",
+    category: "People",
     subCategory: "person-gesture",
     tags: [
       "man",
@@ -5425,7 +5425,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🙎‍♀️",
     number: 218,
     name: "woman pouting",
-    category: "people",
+    category: "People",
     subCategory: "person-gesture",
     tags: [
       "woman",
@@ -5456,7 +5456,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🙅",
     number: 219,
     name: "person gesturing NO",
-    category: "people",
+    category: "People",
     subCategory: "person-gesture",
     tags: [
       "person",
@@ -5484,7 +5484,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🙅‍♂️",
     number: 220,
     name: "man gesturing NO",
-    category: "people",
+    category: "People",
     subCategory: "person-gesture",
     tags: [
       "man",
@@ -5513,7 +5513,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🙅‍♀️",
     number: 221,
     name: "woman gesturing NO",
-    category: "people",
+    category: "People",
     subCategory: "person-gesture",
     tags: [
       "woman",
@@ -5542,7 +5542,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🙆",
     number: 222,
     name: "person gesturing OK",
-    category: "people",
+    category: "People",
     subCategory: "person-gesture",
     tags: [
       "person",
@@ -5570,7 +5570,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🙆‍♂️",
     number: 223,
     name: "man gesturing OK",
-    category: "people",
+    category: "People",
     subCategory: "person-gesture",
     tags: [
       "man",
@@ -5599,7 +5599,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🙆‍♀️",
     number: 224,
     name: "woman gesturing OK",
-    category: "people",
+    category: "People",
     subCategory: "person-gesture",
     tags: [
       "woman",
@@ -5628,7 +5628,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "💁",
     number: 225,
     name: "person tipping hand",
-    category: "people",
+    category: "People",
     subCategory: "person-gesture",
     tags: [
       "person",
@@ -5654,7 +5654,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "💁‍♂️",
     number: 226,
     name: "man tipping hand",
-    category: "people",
+    category: "People",
     subCategory: "person-gesture",
     tags: [
       "man",
@@ -5681,7 +5681,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "💁‍♀️",
     number: 227,
     name: "woman tipping hand",
-    category: "people",
+    category: "People",
     subCategory: "person-gesture",
     tags: [
       "woman",
@@ -5708,7 +5708,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🙋",
     number: 228,
     name: "person raising hand",
-    category: "people",
+    category: "People",
     subCategory: "person-gesture",
     tags: [
       "person",
@@ -5735,7 +5735,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🙋‍♂️",
     number: 229,
     name: "man raising hand",
-    category: "people",
+    category: "People",
     subCategory: "person-gesture",
     tags: [
       "man",
@@ -5763,7 +5763,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🙋‍♀️",
     number: 230,
     name: "woman raising hand",
-    category: "people",
+    category: "People",
     subCategory: "person-gesture",
     tags: [
       "woman",
@@ -5791,7 +5791,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🙇",
     number: 231,
     name: "person bowing",
-    category: "people",
+    category: "People",
     subCategory: "person-gesture",
     tags: [
       "person",
@@ -5817,7 +5817,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🙇‍♂️",
     number: 232,
     name: "man bowing",
-    category: "people",
+    category: "People",
     subCategory: "person-gesture",
     tags: [
       "man",
@@ -5844,7 +5844,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🙇‍♀️",
     number: 233,
     name: "woman bowing",
-    category: "people",
+    category: "People",
     subCategory: "person-gesture",
     tags: [
       "woman",
@@ -5871,7 +5871,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🤦",
     number: 234,
     name: "person facepalming",
-    category: "people",
+    category: "People",
     subCategory: "person-gesture",
     tags: [
       "person",
@@ -5898,7 +5898,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🤦‍♂️",
     number: 235,
     name: "man facepalming",
-    category: "people",
+    category: "People",
     subCategory: "person-gesture",
     tags: [
       "man",
@@ -5926,7 +5926,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🤦‍♀️",
     number: 236,
     name: "woman facepalming",
-    category: "people",
+    category: "People",
     subCategory: "person-gesture",
     tags: [
       "woman",
@@ -5954,7 +5954,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🤷",
     number: 237,
     name: "person shrugging",
-    category: "people",
+    category: "People",
     subCategory: "person-gesture",
     tags: [
       "person",
@@ -5981,7 +5981,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🤷‍♂️",
     number: 238,
     name: "man shrugging",
-    category: "people",
+    category: "People",
     subCategory: "person-gesture",
     tags: [
       "man",
@@ -6009,7 +6009,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🤷‍♀️",
     number: 239,
     name: "woman shrugging",
-    category: "people",
+    category: "People",
     subCategory: "person-gesture",
     tags: [
       "woman",
@@ -6037,7 +6037,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👨‍⚕️",
     number: 240,
     name: "man health worker",
-    category: "people",
+    category: "People",
     subCategory: "person-role",
     tags: [
       "man",
@@ -6069,7 +6069,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👩‍⚕️",
     number: 241,
     name: "woman health worker",
-    category: "people",
+    category: "People",
     subCategory: "person-role",
     tags: [
       "woman",
@@ -6101,7 +6101,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👨‍🎓",
     number: 242,
     name: "man student",
-    category: "people",
+    category: "People",
     subCategory: "person-role",
     tags: [
       "man",
@@ -6132,7 +6132,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👩‍🎓",
     number: 243,
     name: "woman student",
-    category: "people",
+    category: "People",
     subCategory: "person-role",
     tags: [
       "woman",
@@ -6163,7 +6163,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👨‍🏫",
     number: 244,
     name: "man teacher",
-    category: "people",
+    category: "People",
     subCategory: "person-role",
     tags: [
       "man",
@@ -6195,7 +6195,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👩‍🏫",
     number: 245,
     name: "woman teacher",
-    category: "people",
+    category: "People",
     subCategory: "person-role",
     tags: [
       "woman",
@@ -6227,7 +6227,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👨‍⚖️",
     number: 246,
     name: "man judge",
-    category: "people",
+    category: "People",
     subCategory: "person-role",
     tags: [
       "man",
@@ -6258,7 +6258,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👩‍⚖️",
     number: 247,
     name: "woman judge",
-    category: "people",
+    category: "People",
     subCategory: "person-role",
     tags: [
       "woman",
@@ -6289,7 +6289,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👨‍🌾",
     number: 248,
     name: "man farmer",
-    category: "people",
+    category: "People",
     subCategory: "person-role",
     tags: [
       "man",
@@ -6321,7 +6321,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👩‍🌾",
     number: 249,
     name: "woman farmer",
-    category: "people",
+    category: "People",
     subCategory: "person-role",
     tags: [
       "woman",
@@ -6353,7 +6353,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👨‍🍳",
     number: 250,
     name: "man cook",
-    category: "people",
+    category: "People",
     subCategory: "person-role",
     tags: [
       "man",
@@ -6383,7 +6383,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👩‍🍳",
     number: 251,
     name: "woman cook",
-    category: "people",
+    category: "People",
     subCategory: "person-role",
     tags: [
       "woman",
@@ -6413,7 +6413,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👨‍🔧",
     number: 252,
     name: "man mechanic",
-    category: "people",
+    category: "People",
     subCategory: "person-role",
     tags: [
       "man",
@@ -6445,7 +6445,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👩‍🔧",
     number: 253,
     name: "woman mechanic",
-    category: "people",
+    category: "People",
     subCategory: "person-role",
     tags: [
       "woman",
@@ -6477,7 +6477,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👨‍🏭",
     number: 254,
     name: "man factory worker",
-    category: "people",
+    category: "People",
     subCategory: "person-role",
     tags: [
       "man",
@@ -6507,7 +6507,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👩‍🏭",
     number: 255,
     name: "woman factory worker",
-    category: "people",
+    category: "People",
     subCategory: "person-role",
     tags: [
       "woman",
@@ -6537,7 +6537,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👨‍💼",
     number: 256,
     name: "man office worker",
-    category: "people",
+    category: "People",
     subCategory: "person-role",
     tags: [
       "man",
@@ -6567,7 +6567,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👩‍💼",
     number: 257,
     name: "woman office worker",
-    category: "people",
+    category: "People",
     subCategory: "person-role",
     tags: [
       "woman",
@@ -6597,7 +6597,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👨‍🔬",
     number: 258,
     name: "man scientist",
-    category: "people",
+    category: "People",
     subCategory: "person-role",
     tags: [
       "man",
@@ -6628,7 +6628,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👩‍🔬",
     number: 259,
     name: "woman scientist",
-    category: "people",
+    category: "People",
     subCategory: "person-role",
     tags: [
       "woman",
@@ -6659,7 +6659,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👨‍💻",
     number: 260,
     name: "man technologist",
-    category: "people",
+    category: "People",
     subCategory: "person-role",
     tags: [
       "man",
@@ -6690,7 +6690,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👩‍💻",
     number: 261,
     name: "woman technologist",
-    category: "people",
+    category: "People",
     subCategory: "person-role",
     tags: [
       "woman",
@@ -6721,7 +6721,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👨‍🎤",
     number: 262,
     name: "man singer",
-    category: "people",
+    category: "People",
     subCategory: "person-role",
     tags: [
       "man",
@@ -6753,7 +6753,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👩‍🎤",
     number: 263,
     name: "woman singer",
-    category: "people",
+    category: "People",
     subCategory: "person-role",
     tags: [
       "woman",
@@ -6785,7 +6785,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👨‍🎨",
     number: 264,
     name: "man artist",
-    category: "people",
+    category: "People",
     subCategory: "person-role",
     tags: [
       "man",
@@ -6817,7 +6817,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👩‍🎨",
     number: 265,
     name: "woman artist",
-    category: "people",
+    category: "People",
     subCategory: "person-role",
     tags: [
       "woman",
@@ -6849,7 +6849,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👨‍✈️",
     number: 266,
     name: "man pilot",
-    category: "people",
+    category: "People",
     subCategory: "person-role",
     tags: [
       "man",
@@ -6879,7 +6879,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👩‍✈️",
     number: 267,
     name: "woman pilot",
-    category: "people",
+    category: "People",
     subCategory: "person-role",
     tags: [
       "woman",
@@ -6909,7 +6909,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👨‍🚀",
     number: 268,
     name: "man astronaut",
-    category: "people",
+    category: "People",
     subCategory: "person-role",
     tags: [
       "man",
@@ -6939,7 +6939,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👩‍🚀",
     number: 269,
     name: "woman astronaut",
-    category: "people",
+    category: "People",
     subCategory: "person-role",
     tags: [
       "woman",
@@ -6969,7 +6969,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👨‍🚒",
     number: 270,
     name: "man firefighter",
-    category: "people",
+    category: "People",
     subCategory: "person-role",
     tags: [
       "man",
@@ -6999,7 +6999,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👩‍🚒",
     number: 271,
     name: "woman firefighter",
-    category: "people",
+    category: "People",
     subCategory: "person-role",
     tags: [
       "woman",
@@ -7030,7 +7030,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👮",
     number: 272,
     name: "police officer",
-    category: "people",
+    category: "People",
     subCategory: "person-role",
     tags: [
       "police",
@@ -7060,7 +7060,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👮‍♂️",
     number: 273,
     name: "man police officer",
-    category: "people",
+    category: "People",
     subCategory: "person-role",
     tags: [
       "man",
@@ -7093,7 +7093,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👮‍♀️",
     number: 274,
     name: "woman police officer",
-    category: "people",
+    category: "People",
     subCategory: "person-role",
     tags: [
       "woman",
@@ -7126,7 +7126,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🕵",
     number: 275,
     name: "detective",
-    category: "people",
+    category: "People",
     subCategory: "person-role",
     tags: [
       "detective",
@@ -7155,7 +7155,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🕵️‍♂️",
     number: 276,
     name: "man detective",
-    category: "people",
+    category: "People",
     subCategory: "person-role",
     tags: [
       "man",
@@ -7188,7 +7188,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🕵️‍♀️",
     number: 277,
     name: "woman detective",
-    category: "people",
+    category: "People",
     subCategory: "person-role",
     tags: [
       "woman",
@@ -7221,7 +7221,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "💂",
     number: 278,
     name: "guard",
-    category: "people",
+    category: "People",
     subCategory: "person-role",
     tags: [
       "guard",
@@ -7250,7 +7250,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "💂‍♂️",
     number: 279,
     name: "man guard",
-    category: "people",
+    category: "People",
     subCategory: "person-role",
     tags: [
       "man",
@@ -7283,7 +7283,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "💂‍♀️",
     number: 280,
     name: "woman guard",
-    category: "people",
+    category: "People",
     subCategory: "person-role",
     tags: [
       "woman",
@@ -7316,7 +7316,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👷",
     number: 281,
     name: "construction worker",
-    category: "people",
+    category: "People",
     subCategory: "person-role",
     tags: [
       "construction",
@@ -7347,7 +7347,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👷‍♂️",
     number: 282,
     name: "man construction worker",
-    category: "people",
+    category: "People",
     subCategory: "person-role",
     tags: [
       "man",
@@ -7381,7 +7381,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👷‍♀️",
     number: 283,
     name: "woman construction worker",
-    category: "people",
+    category: "People",
     subCategory: "person-role",
     tags: [
       "woman",
@@ -7415,7 +7415,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🤴",
     number: 284,
     name: "prince",
-    category: "people",
+    category: "People",
     subCategory: "person",
     tags: [
       "prince",
@@ -7445,7 +7445,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👸",
     number: 285,
     name: "princess",
-    category: "people",
+    category: "People",
     subCategory: "person",
     tags: [
       "princess",
@@ -7475,7 +7475,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👳",
     number: 286,
     name: "person wearing turban",
-    category: "people",
+    category: "People",
     subCategory: "person",
     tags: [
       "person",
@@ -7505,7 +7505,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👳‍♂️",
     number: 287,
     name: "man wearing turban",
-    category: "people",
+    category: "People",
     subCategory: "person",
     tags: [
       "man",
@@ -7537,7 +7537,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👳‍♀️",
     number: 288,
     name: "woman wearing turban",
-    category: "people",
+    category: "People",
     subCategory: "person",
     tags: [
       "woman",
@@ -7569,7 +7569,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👲",
     number: 289,
     name: "man with Chinese cap",
-    category: "people",
+    category: "People",
     subCategory: "person",
     tags: [
       "man",
@@ -7596,7 +7596,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🧕",
     number: 290,
     name: "woman with headscarf",
-    category: "people",
+    category: "People",
     subCategory: "person",
     tags: [
       "woman",
@@ -7624,7 +7624,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🤵",
     number: 291,
     name: "man in tuxedo",
-    category: "people",
+    category: "People",
     subCategory: "person",
     tags: [
       "man",
@@ -7652,7 +7652,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👰",
     number: 292,
     name: "bride with veil",
-    category: "people",
+    category: "People",
     subCategory: "person",
     tags: [
       "bride",
@@ -7681,7 +7681,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🤰",
     number: 293,
     name: "pregnant woman",
-    category: "people",
+    category: "People",
     subCategory: "person",
     tags: [
       "pregnant",
@@ -7709,7 +7709,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🤱",
     number: 294,
     name: "breast-feeding",
-    category: "people",
+    category: "People",
     subCategory: "person",
     tags: [
       "breastfeeding",
@@ -7737,7 +7737,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👼",
     number: 295,
     name: "baby angel",
-    category: "people",
+    category: "People",
     subCategory: "person-fantasy",
     tags: [
       "angel",
@@ -7767,7 +7767,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🎅",
     number: 296,
     name: "Santa Claus",
-    category: "people",
+    category: "People",
     subCategory: "person-fantasy",
     tags: [
       "santa",
@@ -7798,7 +7798,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🤶",
     number: 297,
     name: "Mrs. Claus",
-    category: "people",
+    category: "People",
     subCategory: "person-fantasy",
     tags: [
       "mrs claus",
@@ -7829,7 +7829,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🦸",
     number: 298,
     name: "superhero",
-    category: "people",
+    category: "People",
     subCategory: "person-fantasy",
     tags: [
       "superhero",
@@ -7859,7 +7859,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🦸‍♂️",
     number: 299,
     name: "man superhero",
-    category: "people",
+    category: "People",
     subCategory: "person-fantasy",
     tags: [
       "man",
@@ -7892,7 +7892,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🦸‍♀️",
     number: 300,
     name: "woman superhero",
-    category: "people",
+    category: "People",
     subCategory: "person-fantasy",
     tags: [
       "woman",
@@ -7925,7 +7925,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🦹",
     number: 301,
     name: "supervillain",
-    category: "people",
+    category: "People",
     subCategory: "person-fantasy",
     tags: [
       "supervillain",
@@ -7954,7 +7954,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🦹‍♂️",
     number: 302,
     name: "man supervillain",
-    category: "people",
+    category: "People",
     subCategory: "person-fantasy",
     tags: [
       "man",
@@ -7985,7 +7985,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🦹‍♀️",
     number: 303,
     name: "woman supervillain",
-    category: "people",
+    category: "People",
     subCategory: "person-fantasy",
     tags: [
       "woman",
@@ -8017,7 +8017,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🧙",
     number: 304,
     name: "mage",
-    category: "people",
+    category: "People",
     subCategory: "person-fantasy",
     tags: [
       "mage",
@@ -8045,7 +8045,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🧙‍♂️",
     number: 305,
     name: "man mage",
-    category: "people",
+    category: "People",
     subCategory: "person-fantasy",
     tags: [
       "man",
@@ -8073,7 +8073,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🧙‍♀️",
     number: 306,
     name: "woman mage",
-    category: "people",
+    category: "People",
     subCategory: "person-fantasy",
     tags: [
       "woman",
@@ -8101,7 +8101,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🧚",
     number: 307,
     name: "fairy",
-    category: "people",
+    category: "People",
     subCategory: "person-fantasy",
     tags: [
       "fairy",
@@ -8127,7 +8127,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🧚‍♂️",
     number: 308,
     name: "man fairy",
-    category: "people",
+    category: "People",
     subCategory: "person-fantasy",
     tags: [
       "man",
@@ -8155,7 +8155,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🧚‍♀️",
     number: 309,
     name: "woman fairy",
-    category: "people",
+    category: "People",
     subCategory: "person-fantasy",
     tags: [
       "woman",
@@ -8183,7 +8183,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🧛",
     number: 310,
     name: "vampire",
-    category: "people",
+    category: "People",
     subCategory: "person-fantasy",
     tags: [
       "vampire",
@@ -8209,7 +8209,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🧛‍♂️",
     number: 311,
     name: "man vampire",
-    category: "people",
+    category: "People",
     subCategory: "person-fantasy",
     tags: [
       "man",
@@ -8238,7 +8238,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🧛‍♀️",
     number: 312,
     name: "woman vampire",
-    category: "people",
+    category: "People",
     subCategory: "person-fantasy",
     tags: [
       "woman",
@@ -8267,7 +8267,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🧜",
     number: 313,
     name: "merperson",
-    category: "people",
+    category: "People",
     subCategory: "person-fantasy",
     tags: [
       "merperson",
@@ -8296,7 +8296,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🧜‍♂️",
     number: 314,
     name: "merman",
-    category: "people",
+    category: "People",
     subCategory: "person-fantasy",
     tags: [
       "merman",
@@ -8323,7 +8323,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🧜‍♀️",
     number: 315,
     name: "mermaid",
-    category: "people",
+    category: "People",
     subCategory: "person-fantasy",
     tags: [
       "mermaid",
@@ -8350,7 +8350,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🧝",
     number: 316,
     name: "elf",
-    category: "people",
+    category: "People",
     subCategory: "person-fantasy",
     tags: [
       "elf",
@@ -8376,7 +8376,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🧝‍♂️",
     number: 317,
     name: "man elf",
-    category: "people",
+    category: "People",
     subCategory: "person-fantasy",
     tags: [
       "man",
@@ -8404,7 +8404,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🧝‍♀️",
     number: 318,
     name: "woman elf",
-    category: "people",
+    category: "People",
     subCategory: "person-fantasy",
     tags: [
       "woman",
@@ -8432,7 +8432,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🧞",
     number: 319,
     name: "genie",
-    category: "people",
+    category: "People",
     subCategory: "person-fantasy",
     tags: [
       "genie",
@@ -8457,7 +8457,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🧞‍♂️",
     number: 320,
     name: "man genie",
-    category: "people",
+    category: "People",
     subCategory: "person-fantasy",
     tags: [
       "man",
@@ -8484,7 +8484,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🧞‍♀️",
     number: 321,
     name: "woman genie",
-    category: "people",
+    category: "People",
     subCategory: "person-fantasy",
     tags: [
       "woman",
@@ -8511,7 +8511,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🧟",
     number: 322,
     name: "zombie",
-    category: "people",
+    category: "People",
     subCategory: "person-fantasy",
     tags: [
       "zombie",
@@ -8538,7 +8538,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🧟‍♂️",
     number: 323,
     name: "man zombie",
-    category: "people",
+    category: "People",
     subCategory: "person-fantasy",
     tags: [
       "man",
@@ -8567,7 +8567,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🧟‍♀️",
     number: 324,
     name: "woman zombie",
-    category: "people",
+    category: "People",
     subCategory: "person-fantasy",
     tags: [
       "woman",
@@ -8596,7 +8596,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "💆",
     number: 325,
     name: "person getting massage",
-    category: "people",
+    category: "People",
     subCategory: "person-activity",
     tags: [
       "massage",
@@ -8626,7 +8626,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "💆‍♂️",
     number: 326,
     name: "man getting massage",
-    category: "people",
+    category: "People",
     subCategory: "person-activity",
     tags: [
       "man",
@@ -8659,7 +8659,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "💆‍♀️",
     number: 327,
     name: "woman getting massage",
-    category: "people",
+    category: "People",
     subCategory: "person-activity",
     tags: [
       "woman",
@@ -8692,7 +8692,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "💇",
     number: 328,
     name: "person getting haircut",
-    category: "people",
+    category: "People",
     subCategory: "person-activity",
     tags: [
       "haircut",
@@ -8722,7 +8722,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "💇‍♂️",
     number: 329,
     name: "man getting haircut",
-    category: "people",
+    category: "People",
     subCategory: "person-activity",
     tags: [
       "man",
@@ -8756,7 +8756,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "💇‍♀️",
     number: 330,
     name: "woman getting haircut",
-    category: "people",
+    category: "People",
     subCategory: "person-activity",
     tags: [
       "woman",
@@ -8789,7 +8789,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🚶",
     number: 331,
     name: "person walking",
-    category: "people",
+    category: "People",
     subCategory: "person-activity",
     tags: [
       "walking",
@@ -8818,7 +8818,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🚶‍♂️",
     number: 332,
     name: "man walking",
-    category: "people",
+    category: "People",
     subCategory: "person-activity",
     tags: [
       "man",
@@ -8849,7 +8849,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🚶‍♀️",
     number: 333,
     name: "woman walking",
-    category: "people",
+    category: "People",
     subCategory: "person-activity",
     tags: [
       "woman",
@@ -8880,7 +8880,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🏃",
     number: 334,
     name: "person running",
-    category: "people",
+    category: "People",
     subCategory: "person-activity",
     tags: [
       "running",
@@ -8907,7 +8907,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🏃‍♂️",
     number: 335,
     name: "man running",
-    category: "people",
+    category: "People",
     subCategory: "person-activity",
     tags: [
       "man",
@@ -8936,7 +8936,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🏃‍♀️",
     number: 336,
     name: "woman running",
-    category: "people",
+    category: "People",
     subCategory: "person-activity",
     tags: [
       "woman",
@@ -8965,7 +8965,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "💃",
     number: 337,
     name: "woman dancing",
-    category: "people",
+    category: "People",
     subCategory: "person-activity",
     tags: [
       "woman",
@@ -8995,7 +8995,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🕺",
     number: 338,
     name: "man dancing",
-    category: "people",
+    category: "People",
     subCategory: "person-activity",
     tags: [
       "man",
@@ -9022,7 +9022,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🕴",
     number: 339,
     name: "man in suit levitating",
-    category: "people",
+    category: "People",
     subCategory: "person-activity",
     tags: [
       "man",
@@ -9046,7 +9046,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👯",
     number: 340,
     name: "people with bunny ears",
-    category: "people",
+    category: "People",
     subCategory: "person-activity",
     tags: [
       "bunny ears",
@@ -9069,7 +9069,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👯‍♂️",
     number: 341,
     name: "men with bunny ears",
-    category: "people",
+    category: "People",
     subCategory: "person-activity",
     tags: [
       "men",
@@ -9093,7 +9093,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👯‍♀️",
     number: 342,
     name: "women with bunny ears",
-    category: "people",
+    category: "People",
     subCategory: "person-activity",
     tags: [
       "women",
@@ -9117,7 +9117,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🧖",
     number: 343,
     name: "person in steamy room",
-    category: "people",
+    category: "People",
     subCategory: "person-activity",
     tags: [
       "steamy room",
@@ -9142,7 +9142,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🧖‍♂️",
     number: 344,
     name: "man in steamy room",
-    category: "people",
+    category: "People",
     subCategory: "person-activity",
     tags: [
       "man",
@@ -9169,7 +9169,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🧖‍♀️",
     number: 345,
     name: "woman in steamy room",
-    category: "people",
+    category: "People",
     subCategory: "person-activity",
     tags: [
       "woman",
@@ -9196,7 +9196,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🧗",
     number: 346,
     name: "person climbing",
-    category: "people",
+    category: "People",
     subCategory: "person-activity",
     tags: [
       "climbing",
@@ -9223,7 +9223,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🧗‍♂️",
     number: 347,
     name: "man climbing",
-    category: "people",
+    category: "People",
     subCategory: "person-activity",
     tags: [
       "man",
@@ -9252,7 +9252,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🧗‍♀️",
     number: 348,
     name: "woman climbing",
-    category: "people",
+    category: "People",
     subCategory: "person-activity",
     tags: [
       "woman",
@@ -9281,7 +9281,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🤺",
     number: 349,
     name: "person fencing",
-    category: "people",
+    category: "People",
     subCategory: "person-sport",
     tags: [
       "fencing",
@@ -9309,7 +9309,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🏇",
     number: 350,
     name: "horse racing",
-    category: "people",
+    category: "People",
     subCategory: "person-sport",
     tags: [
       "horse racing",
@@ -9336,7 +9336,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "⛷",
     number: 351,
     name: "skier",
-    category: "people",
+    category: "People",
     subCategory: "person-sport",
     tags: [
       "skier",
@@ -9363,7 +9363,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🏂",
     number: 352,
     name: "snowboarder",
-    category: "people",
+    category: "People",
     subCategory: "person-sport",
     tags: [
       "snowboarder",
@@ -9389,7 +9389,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🏌",
     number: 353,
     name: "person golfing",
-    category: "people",
+    category: "People",
     subCategory: "person-sport",
     tags: [
       "golfing",
@@ -9416,7 +9416,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🏌️‍♂️",
     number: 354,
     name: "man golfing",
-    category: "people",
+    category: "People",
     subCategory: "person-sport",
     tags: [
       "man",
@@ -9445,7 +9445,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🏌️‍♀️",
     number: 355,
     name: "woman golfing",
-    category: "people",
+    category: "People",
     subCategory: "person-sport",
     tags: [
       "woman",
@@ -9474,7 +9474,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🏄",
     number: 356,
     name: "person surfing",
-    category: "people",
+    category: "People",
     subCategory: "person-sport",
     tags: [
       "surfing",
@@ -9500,7 +9500,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🏄‍♂️",
     number: 357,
     name: "man surfing",
-    category: "people",
+    category: "People",
     subCategory: "person-sport",
     tags: [
       "man",
@@ -9528,7 +9528,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🏄‍♀️",
     number: 358,
     name: "woman surfing",
-    category: "people",
+    category: "People",
     subCategory: "person-sport",
     tags: [
       "woman",
@@ -9556,7 +9556,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🚣",
     number: 359,
     name: "person rowing boat",
-    category: "people",
+    category: "People",
     subCategory: "person-sport",
     tags: [
       "rowing",
@@ -9581,7 +9581,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🚣‍♂️",
     number: 360,
     name: "man rowing boat",
-    category: "people",
+    category: "People",
     subCategory: "person-sport",
     tags: [
       "man",
@@ -9608,7 +9608,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🚣‍♀️",
     number: 361,
     name: "woman rowing boat",
-    category: "people",
+    category: "People",
     subCategory: "person-sport",
     tags: [
       "woman",
@@ -9635,7 +9635,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🏊",
     number: 362,
     name: "person swimming",
-    category: "people",
+    category: "People",
     subCategory: "person-sport",
     tags: [
       "swimming",
@@ -9661,7 +9661,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🏊‍♂️",
     number: 363,
     name: "man swimming",
-    category: "people",
+    category: "People",
     subCategory: "person-sport",
     tags: [
       "man",
@@ -9689,7 +9689,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🏊‍♀️",
     number: 364,
     name: "woman swimming",
-    category: "people",
+    category: "People",
     subCategory: "person-sport",
     tags: [
       "woman",
@@ -9717,7 +9717,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "⛹",
     number: 365,
     name: "person bouncing ball",
-    category: "people",
+    category: "People",
     subCategory: "person-sport",
     tags: [
       "bouncing ball",
@@ -9738,7 +9738,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "⛹️‍♂️",
     number: 366,
     name: "man bouncing ball",
-    category: "people",
+    category: "People",
     subCategory: "person-sport",
     tags: [
       "man",
@@ -9761,7 +9761,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "⛹️‍♀️",
     number: 367,
     name: "woman bouncing ball",
-    category: "people",
+    category: "People",
     subCategory: "person-sport",
     tags: [
       "woman",
@@ -9784,7 +9784,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🏋",
     number: 368,
     name: "person lifting weights",
-    category: "people",
+    category: "People",
     subCategory: "person-sport",
     tags: [
       "weightlifting",
@@ -9811,7 +9811,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🏋️‍♂️",
     number: 369,
     name: "man lifting weights",
-    category: "people",
+    category: "People",
     subCategory: "person-sport",
     tags: [
       "man",
@@ -9840,7 +9840,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🏋️‍♀️",
     number: 370,
     name: "woman lifting weights",
-    category: "people",
+    category: "People",
     subCategory: "person-sport",
     tags: [
       "woman",
@@ -9869,7 +9869,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🚴",
     number: 371,
     name: "person biking",
-    category: "people",
+    category: "People",
     subCategory: "person-sport",
     tags: [
       "biking",
@@ -9896,7 +9896,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🚴‍♂️",
     number: 372,
     name: "man biking",
-    category: "people",
+    category: "People",
     subCategory: "person-sport",
     tags: [
       "man",
@@ -9925,7 +9925,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🚴‍♀️",
     number: 373,
     name: "woman biking",
-    category: "people",
+    category: "People",
     subCategory: "person-sport",
     tags: [
       "woman",
@@ -9954,7 +9954,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🚵",
     number: 374,
     name: "person mountain biking",
-    category: "people",
+    category: "People",
     subCategory: "person-sport",
     tags: [
       "mountain biking",
@@ -9983,7 +9983,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🚵‍♂️",
     number: 375,
     name: "man mountain biking",
-    category: "people",
+    category: "People",
     subCategory: "person-sport",
     tags: [
       "man",
@@ -10014,7 +10014,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🚵‍♀️",
     number: 376,
     name: "woman mountain biking",
-    category: "people",
+    category: "People",
     subCategory: "person-sport",
     tags: [
       "woman",
@@ -10045,7 +10045,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🤸",
     number: 377,
     name: "person cartwheeling",
-    category: "people",
+    category: "People",
     subCategory: "person-sport",
     tags: [
       "cartwheeling",
@@ -10068,7 +10068,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🤸‍♂️",
     number: 378,
     name: "man cartwheeling",
-    category: "people",
+    category: "People",
     subCategory: "person-sport",
     tags: [
       "man",
@@ -10093,7 +10093,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🤸‍♀️",
     number: 379,
     name: "woman cartwheeling",
-    category: "people",
+    category: "People",
     subCategory: "person-sport",
     tags: [
       "woman",
@@ -10118,7 +10118,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🤼",
     number: 380,
     name: "people wrestling",
-    category: "people",
+    category: "People",
     subCategory: "person-sport",
     tags: [
       "wrestling",
@@ -10139,7 +10139,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🤼‍♂️",
     number: 381,
     name: "men wrestling",
-    category: "people",
+    category: "People",
     subCategory: "person-sport",
     tags: [
       "men",
@@ -10162,7 +10162,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🤼‍♀️",
     number: 382,
     name: "women wrestling",
-    category: "people",
+    category: "People",
     subCategory: "person-sport",
     tags: [
       "women",
@@ -10185,7 +10185,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🤽",
     number: 383,
     name: "person playing water polo",
-    category: "people",
+    category: "People",
     subCategory: "person-sport",
     tags: [
       "water polo",
@@ -10206,7 +10206,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🤽‍♂️",
     number: 384,
     name: "man playing water polo",
-    category: "people",
+    category: "People",
     subCategory: "person-sport",
     tags: [
       "man",
@@ -10229,7 +10229,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🤽‍♀️",
     number: 385,
     name: "woman playing water polo",
-    category: "people",
+    category: "People",
     subCategory: "person-sport",
     tags: [
       "woman",
@@ -10252,7 +10252,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🤾",
     number: 386,
     name: "person playing handball",
-    category: "people",
+    category: "People",
     subCategory: "person-sport",
     tags: [
       "handball",
@@ -10270,7 +10270,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🤾‍♂️",
     number: 387,
     name: "man playing handball",
-    category: "people",
+    category: "People",
     subCategory: "person-sport",
     tags: [
       "man",
@@ -10290,7 +10290,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🤾‍♀️",
     number: 388,
     name: "woman playing handball",
-    category: "people",
+    category: "People",
     subCategory: "person-sport",
     tags: [
       "woman",
@@ -10310,7 +10310,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🤹",
     number: 389,
     name: "person juggling",
-    category: "people",
+    category: "People",
     subCategory: "person-sport",
     tags: [
       "juggling",
@@ -10336,7 +10336,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🤹‍♂️",
     number: 390,
     name: "man juggling",
-    category: "people",
+    category: "People",
     subCategory: "person-sport",
     tags: [
       "man",
@@ -10364,7 +10364,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🤹‍♀️",
     number: 391,
     name: "woman juggling",
-    category: "people",
+    category: "People",
     subCategory: "person-sport",
     tags: [
       "woman",
@@ -10392,7 +10392,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🧘",
     number: 392,
     name: "person in lotus position",
-    category: "people",
+    category: "People",
     subCategory: "person-resting",
     tags: [
       "lotus position",
@@ -10423,7 +10423,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🧘‍♂️",
     number: 393,
     name: "man in lotus position",
-    category: "people",
+    category: "People",
     subCategory: "person-resting",
     tags: [
       "man",
@@ -10455,7 +10455,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🧘‍♀️",
     number: 394,
     name: "woman in lotus position",
-    category: "people",
+    category: "People",
     subCategory: "person-resting",
     tags: [
       "woman",
@@ -10487,7 +10487,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🛀",
     number: 395,
     name: "person taking bath",
-    category: "people",
+    category: "People",
     subCategory: "person-resting",
     tags: [
       "bath",
@@ -10515,7 +10515,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🛌",
     number: 396,
     name: "person in bed",
-    category: "people",
+    category: "People",
     subCategory: "person-resting",
     tags: [
       "bed",
@@ -10544,7 +10544,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👭",
     number: 397,
     name: "women holding hands",
-    category: "people",
+    category: "People",
     subCategory: "family",
     tags: [
       "women",
@@ -10570,7 +10570,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👫",
     number: 398,
     name: "woman and man holding hands",
-    category: "people",
+    category: "People",
     subCategory: "family",
     tags: [
       "woman",
@@ -10596,7 +10596,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👬",
     number: 399,
     name: "men holding hands",
-    category: "people",
+    category: "People",
     subCategory: "family",
     tags: [
       "men",
@@ -10622,7 +10622,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "💏",
     number: 400,
     name: "kiss",
-    category: "people",
+    category: "People",
     subCategory: "family",
     tags: [
       "kiss",
@@ -10647,7 +10647,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👩‍❤️‍💋‍👨",
     number: 401,
     name: "kiss: woman, man",
-    category: "people",
+    category: "People",
     subCategory: "family",
     tags: [
       "kiss",
@@ -10672,7 +10672,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👨‍❤️‍💋‍👨",
     number: 402,
     name: "kiss: man, man",
-    category: "people",
+    category: "People",
     subCategory: "family",
     tags: [
       "kiss",
@@ -10698,7 +10698,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👩‍❤️‍💋‍👩",
     number: 403,
     name: "kiss: woman, woman",
-    category: "people",
+    category: "People",
     subCategory: "family",
     tags: [
       "kiss",
@@ -10723,7 +10723,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "💑",
     number: 404,
     name: "couple with heart",
-    category: "people",
+    category: "People",
     subCategory: "family",
     tags: [
       "couple",
@@ -10746,7 +10746,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👩‍❤️‍👨",
     number: 405,
     name: "couple with heart: woman, man",
-    category: "people",
+    category: "People",
     subCategory: "family",
     tags: [
       "couple",
@@ -10770,7 +10770,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👨‍❤️‍👨",
     number: 406,
     name: "couple with heart: man, man",
-    category: "people",
+    category: "People",
     subCategory: "family",
     tags: [
       "couple",
@@ -10795,7 +10795,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👩‍❤️‍👩",
     number: 407,
     name: "couple with heart: woman, woman",
-    category: "people",
+    category: "People",
     subCategory: "family",
     tags: [
       "couple",
@@ -10819,7 +10819,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👪",
     number: 408,
     name: "family",
-    category: "people",
+    category: "People",
     subCategory: "family",
     tags: [
       "family",
@@ -10844,7 +10844,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👨‍👩‍👦",
     number: 409,
     name: "family: man, woman, boy",
-    category: "people",
+    category: "People",
     subCategory: "family",
     tags: [
       "family",
@@ -10871,7 +10871,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👨‍👩‍👧",
     number: 410,
     name: "family: man, woman, girl",
-    category: "people",
+    category: "People",
     subCategory: "family",
     tags: [
       "family",
@@ -10898,7 +10898,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👨‍👩‍👧‍👦",
     number: 411,
     name: "family: man, woman, girl, boy",
-    category: "people",
+    category: "People",
     subCategory: "family",
     tags: [
       "family",
@@ -10926,7 +10926,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👨‍👩‍👦‍👦",
     number: 412,
     name: "family: man, woman, boy, boy",
-    category: "people",
+    category: "People",
     subCategory: "family",
     tags: [
       "family",
@@ -10954,7 +10954,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👨‍👩‍👧‍👧",
     number: 413,
     name: "family: man, woman, girl, girl",
-    category: "people",
+    category: "People",
     subCategory: "family",
     tags: [
       "family",
@@ -10982,7 +10982,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👨‍👨‍👦",
     number: 414,
     name: "family: man, man, boy",
-    category: "people",
+    category: "People",
     subCategory: "family",
     tags: [
       "family",
@@ -11011,7 +11011,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👨‍👨‍👧",
     number: 415,
     name: "family: man, man, girl",
-    category: "people",
+    category: "People",
     subCategory: "family",
     tags: [
       "family",
@@ -11040,7 +11040,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👨‍👨‍👧‍👦",
     number: 416,
     name: "family: man, man, girl, boy",
-    category: "people",
+    category: "People",
     subCategory: "family",
     tags: [
       "family",
@@ -11070,7 +11070,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👨‍👨‍👦‍👦",
     number: 417,
     name: "family: man, man, boy, boy",
-    category: "people",
+    category: "People",
     subCategory: "family",
     tags: [
       "family",
@@ -11100,7 +11100,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👨‍👨‍👧‍👧",
     number: 418,
     name: "family: man, man, girl, girl",
-    category: "people",
+    category: "People",
     subCategory: "family",
     tags: [
       "family",
@@ -11130,7 +11130,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👩‍👩‍👦",
     number: 419,
     name: "family: woman, woman, boy",
-    category: "people",
+    category: "People",
     subCategory: "family",
     tags: [
       "family",
@@ -11159,7 +11159,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👩‍👩‍👧",
     number: 420,
     name: "family: woman, woman, girl",
-    category: "people",
+    category: "People",
     subCategory: "family",
     tags: [
       "family",
@@ -11188,7 +11188,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👩‍👩‍👧‍👦",
     number: 421,
     name: "family: woman, woman, girl, boy",
-    category: "people",
+    category: "People",
     subCategory: "family",
     tags: [
       "family",
@@ -11218,7 +11218,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👩‍👩‍👦‍👦",
     number: 422,
     name: "family: woman, woman, boy, boy",
-    category: "people",
+    category: "People",
     subCategory: "family",
     tags: [
       "family",
@@ -11248,7 +11248,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👩‍👩‍👧‍👧",
     number: 423,
     name: "family: woman, woman, girl, girl",
-    category: "people",
+    category: "People",
     subCategory: "family",
     tags: [
       "family",
@@ -11278,7 +11278,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👨‍👦",
     number: 424,
     name: "family: man, boy",
-    category: "people",
+    category: "People",
     subCategory: "family",
     tags: [
       "family",
@@ -11305,7 +11305,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👨‍👦‍👦",
     number: 425,
     name: "family: man, boy, boy",
-    category: "people",
+    category: "People",
     subCategory: "family",
     tags: [
       "family",
@@ -11333,7 +11333,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👨‍👧",
     number: 426,
     name: "family: man, girl",
-    category: "people",
+    category: "People",
     subCategory: "family",
     tags: [
       "family",
@@ -11360,7 +11360,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👨‍👧‍👦",
     number: 427,
     name: "family: man, girl, boy",
-    category: "people",
+    category: "People",
     subCategory: "family",
     tags: [
       "family",
@@ -11389,7 +11389,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👨‍👧‍👧",
     number: 428,
     name: "family: man, girl, girl",
-    category: "people",
+    category: "People",
     subCategory: "family",
     tags: [
       "family",
@@ -11417,7 +11417,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👩‍👦",
     number: 429,
     name: "family: woman, boy",
-    category: "people",
+    category: "People",
     subCategory: "family",
     tags: [
       "family",
@@ -11444,7 +11444,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👩‍👦‍👦",
     number: 430,
     name: "family: woman, boy, boy",
-    category: "people",
+    category: "People",
     subCategory: "family",
     tags: [
       "family",
@@ -11472,7 +11472,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👩‍👧",
     number: 431,
     name: "family: woman, girl",
-    category: "people",
+    category: "People",
     subCategory: "family",
     tags: [
       "family",
@@ -11499,7 +11499,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👩‍👧‍👦",
     number: 432,
     name: "family: woman, girl, boy",
-    category: "people",
+    category: "People",
     subCategory: "family",
     tags: [
       "family",
@@ -11528,7 +11528,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👩‍👧‍👧",
     number: 433,
     name: "family: woman, girl, girl",
-    category: "people",
+    category: "People",
     subCategory: "family",
     tags: [
       "family",
@@ -11556,7 +11556,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🗣",
     number: 434,
     name: "speaking head",
-    category: "people",
+    category: "People",
     subCategory: "person-symbol",
     tags: [
       "speaking",
@@ -11582,7 +11582,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👤",
     number: 435,
     name: "bust in silhouette",
-    category: "people",
+    category: "People",
     subCategory: "person-symbol",
     tags: [
       "bust",
@@ -11608,7 +11608,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👥",
     number: 436,
     name: "busts in silhouette",
-    category: "people",
+    category: "People",
     subCategory: "person-symbol",
     tags: [
       "busts",
@@ -11634,7 +11634,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "👣",
     number: 437,
     name: "footprints",
-    category: "people",
+    category: "People",
     subCategory: "person-symbol",
     tags: [
       "footprints",
@@ -11660,7 +11660,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🦰",
     number: 438,
     name: "red hair",
-    category: "component",
+    category: "Body",
     subCategory: "hair-style",
     tags: [
       "red hair",
@@ -11683,7 +11683,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🦱",
     number: 439,
     name: "curly hair",
-    category: "component",
+    category: "Body",
     subCategory: "hair-style",
     tags: [
       "curly hair",
@@ -11706,7 +11706,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🦳",
     number: 440,
     name: "white hair",
-    category: "component",
+    category: "Body",
     subCategory: "hair-style",
     tags: [
       "white hair",
@@ -11731,7 +11731,7 @@ export const EMOJIS: Record<string, EmojiData> = {
     emoji: "🦲",
     number: 441,
     name: "bald",
-    category: "component",
+    category: "Body",
     subCategory: "hair-style",
     tags: [
       "bald",
